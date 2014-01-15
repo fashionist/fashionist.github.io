@@ -1,0 +1,16 @@
+html, body {
+    background: url("/@/img/back.jpg") no-repeat scroll 0 0 / 100% 100% transparent !important;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: compact;
+}
+
+.container{
+    padding: 200px 0;
+    height: 300px;
+}
+
+.col-md-4{
+    text-align: center;
+}
